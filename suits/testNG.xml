@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Gobear" verbose="1">
+
+	<test name="Regression">
+		<classes>
+			<class name="com.auto.test.TravelPage.TestTravelPage" />
+		</classes>
+	</test>
+</suite>

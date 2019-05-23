@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Gobear" duration-ms="26461" started-at="2019-05-23T17:33:50Z" finished-at="2019-05-23T17:34:16Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="26461" started-at="2019-05-23T17:33:50Z" finished-at="2019-05-23T17:34:16Z">
+      <class name="com.auto.test.TravelPage.TestTravelPage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.auto.test.TravelPage.TestTravelPage@214b199c]" name="setup" is-config="true" duration-ms="3466" started-at="2019-05-23T17:33:50Z" finished-at="2019-05-23T17:33:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testTravelPage()[pri:0, instance:com.auto.test.TravelPage.TestTravelPage@214b199c]" name="testTravelPage" duration-ms="22318" started-at="2019-05-23T17:33:53Z" finished-at="2019-05-23T17:34:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTravelPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.auto.test.TravelPage.TestTravelPage@214b199c]" name="tearDown" is-config="true" duration-ms="659" started-at="2019-05-23T17:34:16Z" finished-at="2019-05-23T17:34:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.auto.test.TravelPage.TestTravelPage -->
+    </test> <!-- Regression -->
+  </suite> <!-- Gobear -->
+</testng-results>

@@ -1,7 +1,7 @@
 # GoBearAutomationTest
 # RUN project by Eclipse:
- - Open folder suites
+ - Open folder project/suites/
  - Right click testNG.xml => Run As => TestNGSuite
  
 # RUN by maven command line:
- - Using cmd: mvn clean test
+ - From project directory, send cmd: mvn clean test

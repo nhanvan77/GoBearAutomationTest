@@ -47,6 +47,7 @@ public class TravelPage extends SeleniumDriver {
 		sleep(2000);
 		click(btn_cancel);
 	}
+
 	public TravelPage verifyAtLeast3CardsDisplay() {
 		List<WebElement> list_cards = findElements(blk_card);
 		boolean isTrue = list_cards.size() >= 3;
